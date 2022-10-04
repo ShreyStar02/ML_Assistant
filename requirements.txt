@@ -2,6 +2,6 @@ numpy
 pandas
 pickle-mixin
 base64
-sklearn
+scikit-learn
 smote-variants
 warnings
