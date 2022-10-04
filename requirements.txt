@@ -1,6 +1,6 @@
 numpy
 pandas
 pickle-mixin
-base64
+pybase64
 scikit-learn
 smote-variants
