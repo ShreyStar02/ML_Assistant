@@ -4,4 +4,3 @@ pickle-mixin
 base64
 scikit-learn
 smote-variants
-warnings
